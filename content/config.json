@@ -13,27 +13,23 @@
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "About Me",
       "path": "/pages/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "Michael Vogt",
+    "photo": "/me.jpg",
+    "bio": "Software Engineer",
     "contacts": {
       "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
+      "email": "mailto:mike@michaelvogt.me",
+      "github": "https://github.com/mvogttech",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/michaelvogttech",
       "linkedin": "#",
-      "instagram": "#",
+      "instagram": "",
       "line": "",
       "weibo": "",
       "gitlab": "",
