@@ -1,0 +1,46 @@
+{
+  "title": "Thoughts by Michael Vogt",
+  "url": "https://michaelvogt.me/",
+  "subtitle": "Thoughts on the present and future state of technology.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "John Doe",
+    "photo": "/photo.jpg",
+    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "#",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "#",
+      "linkedin": "#",
+      "instagram": "#",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
