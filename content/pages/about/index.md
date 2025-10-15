@@ -15,6 +15,7 @@ I have created blogs in the past, so this blog will be my... too many times to c
 ## My Public Projects
 
 - [Splitmark](https://splitmark.app) - The most elegant CLI Markdown editor with live preview, built for developers who demand performance and simplicity
+- [node-x12-edi](https://github.com/mvogttech/node-x12-edi) - A Node.js library for parsing and generating X12 EDI files. This library was designed to be the foundation for a cloud-native EDI platform.
 - [Whazzup](https://whazzup.co/) - A social network that allows people to interact with one another in a specified radius.
 - [Railcar Tables](https://railcartables.com/) - A SaaS platform developed to solve an internal issue at our organization regarding the data management of tankcar gauge files. Companies that utilize tankcar gauge files can use Railcar Tables API to automate the information retrieval process, thus allowing for terminal management systems to perform calculations on user inputs.
 - [Specter Wireless](https://www.instagram.com/specterwireless/) - A failed start-up of mine. It was an attempt to create a premium wireless audio(headphone/earbud/speaker) brand with device designs to solve problems I experienced myself with other wireless audio products.
